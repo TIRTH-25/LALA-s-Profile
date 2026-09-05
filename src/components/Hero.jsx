@@ -169,7 +169,7 @@ const Hero = () => {
             <div className="h-[2px] w-12 bg-red-600"></div>
           </div>
 
-          <h1 className="text-white font-black text-7xl md:text-8xl tracking-[0em] leading-none whitespace-nowrap flex items-center">
+          <h1 className="text-white font-black text-7xl md:text-9xl tracking-[0em] leading-none whitespace-nowrap flex items-center">
             F4
             <span className="text-red-600 mx-3 drop-shadow-[0_0_12px_rgba(220,38,38,0.5)]">
               \
