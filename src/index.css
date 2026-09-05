@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Rajdhani:wght@400;500;600;700;800&family=Space+Grotesk:wght@400;500;600;700&display=swap');
+
+@import "tailwindcss";
+
+/* 2. Configure Tailwind v4 Theme Variables */
+@theme {
+  /* This automatically makes Rajdhani your default font everywhere */
+  --font-sans: "Rajdhani", sans-serif;
+  
+  /* This links Space Grotesk to anywhere you use the 'font-mono' class */
+  --font-mono: "Space Grotesk", monospace;
+}
